@@ -1,0 +1,38 @@
+
+
+
+What happens when you initialize a repository? Why do you need to do it?
+Creates the .git directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Temp holding are for commmit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Differences between the saging area and the most recent commit.
+git diff --staged 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Making a new mode of an existing application.
+
+How do the diagrams help you visualize the branch structure?
+Identify reachable and non reachable branches.
+Identify what point in time a branch was created.
+Identify inter-branch relationships
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Code from both branches merged.
+Indicate what was merged and how components are reachable.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Manually you can miss something.
+
+
+
+
+
+
+
+
+
+
